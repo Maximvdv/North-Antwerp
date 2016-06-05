@@ -87,7 +87,8 @@ p{
 .header{
 	text-align:center;
 	background:url(../img/gebouwmetlogoversie2.jpg) left top repeat;
-    height: 760px;
+    width: 100%;
+    height: 55em;
 
 }
 
@@ -597,6 +598,10 @@ color: #fff;
     background-image: url("../img/snowboard.png");
     background-repeat: no-repeat;
     background-position: right;
+}
+#achtergrondnorth{
+    width: 100%;
+    background-repeat: no-repeat;
 }
 
 
