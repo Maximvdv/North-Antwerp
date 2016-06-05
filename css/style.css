@@ -86,7 +86,7 @@ p{
 
 .header{
 	text-align:center;
-	background:url(../img/gebouwmetlogoversie2.jpg) left top;
+	background:url(../img/gebouwmetlogoversie2.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
