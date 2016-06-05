@@ -49,6 +49,7 @@ body {
 	font-weight:normal;
 	color:#888888;
 	margin:0;
+    width: 100%;
 }
 h2{
 	font-size:34px;
@@ -86,7 +87,7 @@ p{
 
 .header{
 	text-align:center;
-	background:url(../img/gebouwmetlogoversie2.jpg);
+	background:url(../img/gebouwmetlogoversie2.jpg) left top;
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
